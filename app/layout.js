@@ -4,7 +4,13 @@ export const metadata = {
   title: "Beyond Shelter Global | Housing, Emergency Help & Support",
   description:
     "Beyond Shelter is a global humanitarian network providing housing, accommodation, emergency relief, and long-term support worldwide.",
+
   metadataBase: new URL("https://beyondshelter.world"),
+
+  /* ✅ GOOGLE SEARCH CONSOLE VERIFICATION */
+  verification: {
+    google: "O_YPb860g_7g0GvqeUPDq49JXaXMlz3saRXsdrRLhGk",
+  },
 
   alternates: {
     canonical: "https://beyondshelter.org.uk",
