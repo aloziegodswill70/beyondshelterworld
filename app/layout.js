@@ -9,7 +9,7 @@ export const metadata = {
 
   /* ✅ GOOGLE SEARCH CONSOLE VERIFICATION */
   verification: {
-    google: "O_YPb860g_7g0GvqeUPDq49JXaXMlz3saRXsdrRLhGk",
+    google:"O_YPb860g_7g0GvqeUPDq49JXaXMlz3saRXsdrRLhGk"
   },
 
   alternates: {
